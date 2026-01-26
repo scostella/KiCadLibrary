@@ -409,6 +409,174 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "Diode-200V-1A-SM1206"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Diode-200V-1A-SM1206"
+			(at 0 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Custom:750-CURN101-HF"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "diode"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "Diode-200V-1A-SM1206_0_1"
+			(polyline
+				(pts
+					(xy -1.27 1.27) (xy -1.27 -1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 0) (xy -1.27 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "Diode-200V-1A-SM1206_1_1"
+			(pin passive line
+				(at -3.81 0 0)
+				(length 2.54)
+				(name "K"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 3.81 0 180)
+				(length 2.54)
+				(name "A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "LED-Blue-SM1206"
 		(pin_numbers
 			(hide yes)
@@ -1898,7 +2066,7 @@
 				)
 			)
 		)
-		(property "Value" "LED-Purple-SM1206"
+		(property "Value" "LED-Yellow-SM1206"
 			(at 0 -2.54 0)
 			(effects
 				(font
@@ -1915,7 +2083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://lighthouseleds.com/media/wysiwyg/documentation/1206%20Purple%20SMD%20LED%20Datasheet.pdf"
+		(property "Datasheet" "https://lighthouseleds.com/media/wysiwyg/documentation/1206%20Yellow%20Gold%20SMD%20LED%20Datasheet.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1924,7 +2092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LED-Purple-SM1206"
+		(property "Description" "LED-Yellow-SM1206"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1951,7 +2119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part Number" "1206SMDUVPURPLE"
+		(property "Supplier Part Number" "1206SMDYELLOW"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1960,7 +2128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Price/Stock" "https://lighthouseleds.com/1206-smd-led-uv-purple-ultra-bright-350-mcd.html"
+		(property "Supplier Price/Stock" "https://lighthouseleds.com/1206-smd-led-yellow-ultra-bright-190-mcd.html"
 			(at 0 0 0)
 			(effects
 				(font
