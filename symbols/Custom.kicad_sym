@@ -8084,7 +8084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom:SBC-ArduinoMega2560R3Shield"
+		(property "Footprint" "Custom:SBC-ArduinoMega2560R3Shield-NoSPI"
 			(at 0 -73.66 0)
 			(effects
 				(font

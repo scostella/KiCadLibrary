@@ -420,7 +420,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "CAPC3216X180N"
+		(property "Footprint" "Custom:187-CL31A226KOHNNNE"
 			(at 8.89 -96.19 0)
 			(effects
 				(font
