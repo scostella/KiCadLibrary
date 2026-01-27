@@ -8076,7 +8076,7 @@
 				)
 			)
 		)
-		(property "Value" "SBC-ArduinoMega2560R3Shield"
+		(property "Value" "SBC-ArduinoMega2560R3Shield-NoSPI"
 			(at 0 -66.04 0)
 			(effects
 				(font
@@ -8102,7 +8102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Shield for Arduino Mega 2560 R3"
+		(property "Description" "Shield for Arduino Mega 2560 R3 with SPI pins on right side of board removed."
 			(at 0 0 0)
 			(effects
 				(font
@@ -10354,7 +10354,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Custom:855-M20-7830446"
+		(property "Footprint" "Custom:653-B3FS-1000"
 			(at 26.67 -94.92 0)
 			(effects
 				(font
