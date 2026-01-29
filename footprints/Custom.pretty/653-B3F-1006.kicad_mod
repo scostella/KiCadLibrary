@@ -1,0 +1,233 @@
+(footprint "653-B3F-1006"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "B3F-1006-1")
+	(tags "Switch")
+	(property "Reference" "S**"
+		(at -6.5 2 0)
+		(layer "F.SilkS")
+		(uuid "9f24c888-80d9-40be-874d-f51f82032153")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+			(justify left)
+		)
+	)
+	(property "Value" "653-B3F-1006"
+		(at -3.25 -2.25 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b73e0a66-5126-4de8-a0cf-fe78f7b43710")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c16dfb45-aee4-4df8-9807-f731df49dc11")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07403db7-9bfc-4163-a6f2-fb6467381a1e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -6.25 -3.45)
+		(end -6.25 -1.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "169e6698-d7f5-4b5a-a68a-ff340d676352")
+	)
+	(fp_line
+		(start -5.45 -5.25)
+		(end -1.05 -5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2d155ae9-afc9-4274-92ce-0099837d5e86")
+	)
+	(fp_line
+		(start -5.45 0.75)
+		(end -1.05 0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "94e94a18-17a0-4573-a4a1-ccd9de353fa8")
+	)
+	(fp_line
+		(start -0.25 -3.45)
+		(end -0.25 -1.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "70a557e3-8d10-47eb-b2cc-d4469d1d3bd4")
+	)
+	(fp_line
+		(start -8.325 -6.325)
+		(end 1.825 -6.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "27cb63ee-d8a6-44e1-a748-16b9d8a80d6d")
+	)
+	(fp_line
+		(start -8.325 1.825)
+		(end -8.325 -6.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9f92bba9-a778-43a8-a127-6f0ffa4c40fc")
+	)
+	(fp_line
+		(start 1.825 -6.325)
+		(end 1.825 1.825)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8c9f0c1e-5adc-45b1-8648-0257486d1484")
+	)
+	(fp_line
+		(start 1.825 1.825)
+		(end -8.325 1.825)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a10aa76a-3bde-4de7-9178-8c308e0c1025")
+	)
+	(fp_line
+		(start -6.25 -5.25)
+		(end -0.25 -5.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dc2d9942-ce7e-46a7-9a34-b589f00e5af2")
+	)
+	(fp_line
+		(start -6.25 0.75)
+		(end -6.25 -5.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1e2c2006-4038-45ec-8842-b2afc990f343")
+	)
+	(fp_line
+		(start -0.25 -5.25)
+		(end -0.25 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8d0104fa-30c5-4d4f-8d78-2408b9da4130")
+	)
+	(fp_line
+		(start -0.25 0.75)
+		(end -6.25 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "95bd4eaa-3dec-4ea6-9404-cb965fcb3a19")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -6.5 2 0)
+		(layer "F.Fab")
+		(uuid "75af511c-8089-438f-bb73-53197ab96c17")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+			(justify left)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "06c47297-b458-4c8a-a42c-86da4b8d3011")
+	)
+	(pad "2" thru_hole circle
+		(at -6.5 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "be9d2f5f-46c4-44f1-94f8-61564fc6171c")
+	)
+	(pad "3" thru_hole circle
+		(at 0 -4.5)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5006351f-872e-43c5-a3e5-04dbf99387e0")
+	)
+	(pad "4" thru_hole circle
+		(at -6.5 -4.5)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "46d36d50-4495-40e1-81c8-4ab3deecd960")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\B3F-1006.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
