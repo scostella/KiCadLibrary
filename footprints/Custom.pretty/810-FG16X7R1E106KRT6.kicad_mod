@@ -1,0 +1,226 @@
+(footprint "810-FG16X7R1E106KRT6"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "FG16")
+	(tags "Capacitor")
+	(property "Reference" "C**"
+		(at -0.321 -0.092 0)
+		(layer "F.SilkS")
+		(uuid "b59390ff-19b3-41b5-acc4-cf0441631c72")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "810-FG16X7R1E106KRT6"
+		(at -0.321 -0.092 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5702fec9-a36e-42cb-bfaa-d9cefe182608")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "298c5afe-d8ee-4a81-84c4-70c8f279b910")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1580be04-215f-4bb2-83f7-cbd6308f9b20")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.75 -1.75)
+		(end -2.75 1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5bdac077-c1c1-4561-8204-1283921e3c83")
+	)
+	(fp_line
+		(start -2.75 -1.75)
+		(end 2.75 -1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b35ee0f2-835a-44f5-8a54-e1f337879bdb")
+	)
+	(fp_line
+		(start -2.75 1.75)
+		(end -2.75 -1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0327753c-40e9-4220-afc8-41d1ffc8e7bf")
+	)
+	(fp_line
+		(start -2.75 1.75)
+		(end 2.75 1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "409edace-ee60-44e7-9cc2-bf1d5d7d94db")
+	)
+	(fp_line
+		(start 2.75 -1.75)
+		(end -2.75 -1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ee3d905b-5cbf-4fe7-808b-afc94553732a")
+	)
+	(fp_line
+		(start 2.75 -1.75)
+		(end 2.75 1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "58524658-08b8-43cb-b272-e92c94d12957")
+	)
+	(fp_line
+		(start 2.75 1.75)
+		(end -2.75 1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9533d238-5675-49ca-be19-f9023a4b1806")
+	)
+	(fp_line
+		(start 2.75 1.75)
+		(end 2.75 -1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "06245410-b085-4079-889c-515ddac47d58")
+	)
+	(fp_circle
+		(center -1.312 -2.33)
+		(end -1.312 -2.273)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d4a2d4f1-dbf3-4fd2-a7cb-07dabb0847e4")
+	)
+	(fp_line
+		(start -2.75 -1.75)
+		(end 2.75 -1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9e1c19cb-ba8c-4e4d-a53c-6dd76b0ffea1")
+	)
+	(fp_line
+		(start -2.75 1.75)
+		(end -2.75 -1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "66241133-a3f0-4f2e-a787-43b586330bb5")
+	)
+	(fp_line
+		(start 2.75 -1.75)
+		(end 2.75 1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "99fff882-0739-4904-b860-b402d0fe5298")
+	)
+	(fp_line
+		(start 2.75 1.75)
+		(end -2.75 1.75)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2ee0c5e0-dc69-473b-a870-7abb3438b615")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.321 -0.092 0)
+		(layer "F.Fab")
+		(uuid "748b8388-82f0-46e2-92ff-2671e2ed7bb1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -1.25 0)
+		(size 1.3 1.3)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3fe63291-36d0-4e6e-8498-d8af177fe4f8")
+	)
+	(pad "2" thru_hole circle
+		(at 1.25 0)
+		(size 1.3 1.3)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c1ae0f6b-f22d-4c58-af77-bcb22d64ea8c")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\FG16X7R1E106KRT06.stp"
+		(offset
+			(xyz 0 0 4.439999991)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
