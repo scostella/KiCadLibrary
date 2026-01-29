@@ -1,0 +1,194 @@
+(footprint "652-3362P-1-103LF"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "3362P")
+	(tags "Variable Resistor")
+	(property "Reference" "VR**"
+		(at 0 -1 0)
+		(layer "F.SilkS")
+		(uuid "871f0da2-62c6-47e0-9dc4-8e96f54ad5bc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "652-3362P-1-103LF"
+		(at -0.36821 -2.74963 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "44eb214f-2b75-4d81-ae64-aa313095b12a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b8f5df3-044a-4d7a-b55c-62a05d0d3a72")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2afa25cb-8018-4e99-a785-c2c4e1577b6b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.3 -6.99)
+		(end -3.3 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b9117baf-8949-4218-8b64-753856d36851")
+	)
+	(fp_line
+		(start -3.3 0)
+		(end 3.3 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8712921-982f-41fa-a725-7c2bcd812c5c")
+	)
+	(fp_line
+		(start 3.3 -6.99)
+		(end -3.3 -6.99)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2e9eaea6-8419-4302-a9f5-8e54837c591a")
+	)
+	(fp_line
+		(start 3.3 0)
+		(end 3.3 -6.99)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0ab6a536-7a13-4f23-84d2-97fe1699e581")
+	)
+	(fp_circle
+		(center -3.722 -3.532)
+		(end -3.722 -3.475)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d00bfd57-03fc-4c69-a66d-f940f6cb08cf")
+	)
+	(fp_line
+		(start -3.3 -6.99)
+		(end 3.3 -6.99)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8b8f207a-845d-4c7c-a430-8bd004a9e5df")
+	)
+	(fp_line
+		(start -3.3 0)
+		(end -3.3 -6.99)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5e8092e0-2cef-42c1-9932-32bb20fbe126")
+	)
+	(fp_line
+		(start 3.3 -6.99)
+		(end 3.3 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f9014882-5ea9-45b4-99b0-9fa92bdceb38")
+	)
+	(fp_line
+		(start 3.3 0)
+		(end -3.3 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5dcc4626-06d6-41ec-8404-ebf415af6e5e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.36821 -2.74963 0)
+		(layer "F.Fab")
+		(uuid "f18a0f51-42e1-4cea-aaa4-ff025e86973c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.54 -3.53)
+		(size 1.12 1.12)
+		(drill 0.69)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "882eaa85-8f3e-4eae-aff4-8164ab42c9d8")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -6.07)
+		(size 1.12 1.12)
+		(drill 0.69)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e4d2e0af-769f-4911-8bad-d14d5c279ecf")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 -3.53)
+		(size 1.12 1.12)
+		(drill 0.69)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bd37a48a-8e38-49c2-bd12-04a97f0a0ddb")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\3362P-1-103LF.stp"
+		(offset
+			(xyz 0 3.849999847 2.299999918)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -180)
+		)
+	)
+)
