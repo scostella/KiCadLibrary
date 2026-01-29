@@ -1,0 +1,225 @@
+(footprint "512-HUF76423P3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "TO-220, Molded, 3LEad, JEDEC variation AB_1")
+	(tags "MOSFET (N-Channel)")
+	(property "Reference" "Q**"
+		(at -3 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "b8b69c58-3862-4eff-8028-bdd749e3d6a8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+			(justify left)
+		)
+	)
+	(property "Value" "512-HUF76423P3"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c8787b70-0f9b-4129-be54-a014f7d136ef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "abd66841-9729-49fd-8c14-19960bf9e245")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "585e111f-979d-43f0-9a91-8dc1c0283b27")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.8 -3.15)
+		(end -2.8 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b3307563-546f-473c-8542-8d57713b3539")
+	)
+	(fp_line
+		(start 7.87 -3.15)
+		(end -2.8 -3.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b7ee4bc-9f79-41c9-b4a5-8c886f139dcd")
+	)
+	(fp_line
+		(start 7.87 1.55)
+		(end 7.87 -3.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "984ffc78-edfe-489f-aded-07174fa3bdf7")
+	)
+	(fp_line
+		(start -3.05 -3.4)
+		(end 8.12 -3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ea172a27-1bbb-4f2d-b0c5-69252e988949")
+	)
+	(fp_line
+		(start -3.05 1.8)
+		(end -3.05 -3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9101b2af-d436-4ad8-a4a5-256d38ecc602")
+	)
+	(fp_line
+		(start 8.12 -3.4)
+		(end 8.12 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8f5dc032-9dc7-4315-a64f-0d6a2dad7b78")
+	)
+	(fp_line
+		(start 8.12 1.8)
+		(end -3.05 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3f0c11b6-ebd2-4333-9cb6-9513a00c5721")
+	)
+	(fp_line
+		(start -2.8 -3.15)
+		(end 7.87 -3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ce7b620c-2bc0-4b1f-94e2-f27aa69e3dc4")
+	)
+	(fp_line
+		(start -2.8 -1.882)
+		(end -1.532 -3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8403b82b-7de2-4b72-9123-c88b998f3cb9")
+	)
+	(fp_line
+		(start -2.8 1.55)
+		(end -2.8 -3.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "93c1b085-7f9c-4a90-b938-7b8ae1742bcf")
+	)
+	(fp_line
+		(start 7.87 -3.15)
+		(end 7.87 1.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "76df3458-16f0-4655-be61-de421ae841cd")
+	)
+	(fp_line
+		(start 7.87 1.55)
+		(end -2.8 1.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5d3ffd79-0e50-48e0-9c48-5ebdafcf52e5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -3 -4.5 0)
+		(layer "F.Fab")
+		(uuid "64fc3e89-84a4-41f4-bb38-8f18bdcca976")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+			(justify left)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.055 2.055)
+		(drill 1.37)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bdf851a2-ffa6-4144-b6bd-84491073bf8b")
+	)
+	(pad "2" thru_hole circle
+		(at 2.535 0)
+		(size 2.055 2.055)
+		(drill 1.37)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a05d490b-8c16-46b0-9acc-c4a7c0b06ef9")
+	)
+	(pad "3" thru_hole circle
+		(at 5.07 0)
+		(size 2.055 2.055)
+		(drill 1.37)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c12b2e2e-15d7-4807-b3f0-082a50fb1c34")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\HUF76423P3.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
