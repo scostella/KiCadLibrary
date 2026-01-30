@@ -6,7 +6,7 @@
 	(descr "SO20")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.SilkS")
 		(uuid "7f26c01a-ffce-4b8c-936f-2e0589e4101f")
 		(effects
@@ -194,7 +194,7 @@
 		(uuid "8332973c-fad5-44c7-b758-fed6cb547071")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.Fab")
 		(uuid "9c1b5392-b464-4e9d-b368-3f0d815ea3b5")
 		(effects

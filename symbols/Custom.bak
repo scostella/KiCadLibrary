@@ -6471,7 +6471,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:L53ND"
+		(property "Footprint" "Custom:604-WP7113ID"
 			(at 12.7 -93.65 0)
 			(effects
 				(font
@@ -6491,7 +6491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Red 617nm LED Indication - Discrete 2V Radial"
+		(property "Description" "LED - Red 617nm LED Indication - Discrete 2V Radial"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6510,7 +6510,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "604-WP7113ID"
+		(property "Supplier" "Mouser"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "604-WP7113ID"
 			(at 12.7 -493.65 0)
 			(effects
 				(font
@@ -6520,7 +6529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/WP7113ID?qs=hyavMCx%252BcmDJhCThgY7pfQ%3D%3D"
+		(property "Supplier Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/WP7113ID?qs=hyavMCx%252BcmDJhCThgY7pfQ%3D%3D"
 			(at 12.7 -593.65 0)
 			(effects
 				(font

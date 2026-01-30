@@ -6,7 +6,7 @@
 	(descr "B3F-1006-1")
 	(tags "Switch")
 	(property "Reference" "S**"
-		(at -6.5 2 0)
+		(at -3 -2 0)
 		(layer "F.SilkS")
 		(uuid "9f24c888-80d9-40be-874d-f51f82032153")
 		(effects
@@ -14,7 +14,6 @@
 				(size 1.27 1.27)
 				(thickness 0.254)
 			)
-			(justify left)
 		)
 	)
 	(property "Value" "653-B3F-1006"
@@ -175,7 +174,7 @@
 		(uuid "95bd4eaa-3dec-4ea6-9404-cb965fcb3a19")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -6.5 2 0)
+		(at -3.5 -2 0)
 		(layer "F.Fab")
 		(uuid "75af511c-8089-438f-bb73-53197ab96c17")
 		(effects
@@ -183,7 +182,6 @@
 				(size 1.27 1.27)
 				(thickness 0.254)
 			)
-			(justify left)
 		)
 	)
 	(pad "1" thru_hole rect

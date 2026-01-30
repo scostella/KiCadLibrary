@@ -14616,7 +14616,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "RHDR8W70P254X254_2X4_1056X500X850P"
+		(property "Footprint" "Custom:855-M20-7830446"
 			(at 16.51 -94.92 0)
 			(effects
 				(font

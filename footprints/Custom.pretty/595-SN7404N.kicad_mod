@@ -6,7 +6,7 @@
 	(descr "SN7404N")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.SilkS")
 		(uuid "9fa2a099-2cb5-46ea-b09f-fb716c5923ff")
 		(effects
@@ -164,7 +164,7 @@
 		(uuid "d558a76c-515a-4f44-b1f2-26a8e232f52e")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.Fab")
 		(uuid "a3a9aa4a-9d22-4694-9cf1-d5b948d7efb0")
 		(effects

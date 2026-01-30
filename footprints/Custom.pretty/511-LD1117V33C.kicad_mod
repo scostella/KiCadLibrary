@@ -6,7 +6,7 @@
 	(descr "TO-220 (STD-ST dual gauge) type A")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 3 -2 0)
 		(layer "F.SilkS")
 		(uuid "d2f726f3-0d50-4e40-bca1-bb0f7a5799b0")
 		(effects
@@ -174,7 +174,7 @@
 		(uuid "a9389baf-0ef4-4942-bd5d-2fc74c5e0028")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 2.5 -2 0)
 		(layer "F.Fab")
 		(uuid "53785185-5298-4de4-8919-43070f3d3e91")
 		(effects

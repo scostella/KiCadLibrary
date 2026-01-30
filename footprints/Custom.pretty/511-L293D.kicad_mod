@@ -6,7 +6,7 @@
 	(descr "pdip-16")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.SilkS")
 		(uuid "eef4193f-9a1b-43e2-b71f-9a93e2313f65")
 		(effects
@@ -164,7 +164,7 @@
 		(uuid "3e0aa8cf-0375-4efc-8c82-e3a2e9a7365a")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.Fab")
 		(uuid "637f0949-662a-4007-9b29-d6c9e2c77e12")
 		(effects

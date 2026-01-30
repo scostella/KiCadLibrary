@@ -6,7 +6,7 @@
 	(descr "AZ1117CH-3.3TRG1")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.SilkS")
 		(uuid "4879ecaf-7f34-4129-a1f4-6c766b88dde7")
 		(effects
@@ -194,7 +194,7 @@
 		(uuid "990f814d-f484-4ab2-8e8b-9ac8328e414d")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.Fab")
 		(uuid "0ae6c31e-ff55-4b65-b20b-2832470ff103")
 		(effects

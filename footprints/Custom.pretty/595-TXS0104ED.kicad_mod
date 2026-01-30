@@ -6,7 +6,7 @@
 	(descr "D(R-DPSO-G14)")
 	(tags "Integrated Circuit")
 	(property "Reference" "IC**"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.SilkS")
 		(uuid "817317a9-8f92-4130-b5d5-f0731d59afe8")
 		(effects
@@ -194,7 +194,7 @@
 		(uuid "3acf1a10-bad2-43b3-94f6-63c9cd350803")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 0 90)
 		(layer "F.Fab")
 		(uuid "8951b45e-1213-4c42-8a23-01490ce0a27d")
 		(effects

@@ -6,7 +6,7 @@
 	(descr "C315 (3.81 x 2.54)")
 	(tags "Capacitor")
 	(property "Reference" "C**"
-		(at -3 -3.5 0)
+		(at 0 -2.5 0)
 		(layer "F.SilkS")
 		(uuid "568401d7-db25-4dc5-93d8-76a6769f9871")
 		(effects
@@ -14,7 +14,6 @@
 				(size 1.27 1.27)
 				(thickness 0.254)
 			)
-			(justify left)
 		)
 	)
 	(property "Value" "80-C315C104M5U"
@@ -195,7 +194,7 @@
 		(uuid "37b49061-9d26-4cf2-b875-e226c8118715")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -3 -3.5 0)
+		(at -0.5 -2.5 0)
 		(layer "F.Fab")
 		(uuid "c8a954e6-0149-4034-87d8-b2de728db5aa")
 		(effects
@@ -203,7 +202,6 @@
 				(size 1.27 1.27)
 				(thickness 0.254)
 			)
-			(justify left)
 		)
 	)
 	(pad "1" thru_hole circle
