@@ -14863,7 +14863,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "Transistor-FET-.2A-2.6V"
+	(symbol "Transistor-FET-.2A-2.6V-TH"
 		(pin_names
 			(hide yes)
 		)
@@ -14879,7 +14879,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Transistor-FET-.2A-2.6V"
+		(property "Value" "Transistor-FET-.2A-2.6V-TH"
 			(at 5.08 0 0)
 			(effects
 				(font
@@ -14981,7 +14981,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "Transistor-FET-.2A-2.6V_0_1"
+		(symbol "Transistor-FET-.2A-2.6V-TH_0_1"
 			(polyline
 				(pts
 					(xy 0.254 1.905) (xy 0.254 -1.905)
@@ -15148,7 +15148,7 @@
 				)
 			)
 		)
-		(symbol "Transistor-FET-.2A-2.6V_1_1"
+		(symbol "Transistor-FET-.2A-2.6V-TH_1_1"
 			(pin input line
 				(at -5.08 0 0)
 				(length 2.54)

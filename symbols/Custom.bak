@@ -14888,7 +14888,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Custom:512-2N7000BU"
 			(at 5.08 -1.905 0)
 			(effects
 				(font
