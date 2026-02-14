@@ -219,4 +219,15 @@
 		(uuid "0eeb9930-f0b6-46e2-ab99-625a02d0422d")
 	)
 	(embedded_fonts no)
+	(model "${MY_KICAD_LIBS}/3dmodels/Custom.step/61300411121.stp"
+		(offset
+			(xyz 4 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
