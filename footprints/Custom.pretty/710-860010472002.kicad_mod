@@ -105,13 +105,13 @@
 	(embedded_fonts no)
 	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\860010472002.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz 1 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )
