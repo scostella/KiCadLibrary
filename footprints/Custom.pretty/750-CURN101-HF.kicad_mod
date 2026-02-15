@@ -167,7 +167,7 @@
 		(uuid "08f44f2d-c787-4f22-af1b-f07d4c60074f")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\CURN101-HF.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/CURN101-HF.stp"
 		(offset
 			(xyz 0 0 0)
 		)

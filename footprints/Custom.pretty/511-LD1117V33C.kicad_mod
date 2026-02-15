@@ -209,7 +209,7 @@
 		(uuid "14b0022c-9c23-46db-9903-b765ed748209")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\LD1117V33C.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/LD1117V33C.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -212,7 +212,7 @@
 		(uuid "c1ae0f6b-f22d-4c58-af77-bcb22d64ea8c")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\FG16X7R1E106KRT06.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/FG16X7R1E106KRT06.stp"
 		(offset
 			(xyz 0 0 4.439999991)
 		)

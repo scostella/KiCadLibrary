@@ -209,7 +209,7 @@
 		(uuid "c12b2e2e-15d7-4807-b3f0-082a50fb1c34")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\HUF76423P3.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/HUF76423P3.stp"
 		(offset
 			(xyz 0 0 0)
 		)

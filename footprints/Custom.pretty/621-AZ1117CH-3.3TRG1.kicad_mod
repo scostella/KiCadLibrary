@@ -229,7 +229,7 @@
 		(uuid "60934d23-9d52-4cb8-b15a-b631b305d426")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\AZ1117CH-3.3TRG1.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/AZ1117CH-3.3TRG1.stp"
 		(offset
 			(xyz 0 0 0)
 		)

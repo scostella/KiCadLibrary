@@ -239,7 +239,7 @@
 		(uuid "4ffc3d21-0a7e-45b8-9d4e-6101309f34bb")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\LM393PE4.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/LM393PE4.stp"
 		(offset
 			(xyz 0 0 0)
 		)

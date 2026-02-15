@@ -251,7 +251,7 @@
 		(uuid "8e4d3a22-318f-42e4-b7c5-0ceeaab61a0d")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\M20-7830446.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/M20-7830446.stp"
 		(offset
 			(xyz 0 0 0)
 		)

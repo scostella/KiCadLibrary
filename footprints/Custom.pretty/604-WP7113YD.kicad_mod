@@ -309,7 +309,7 @@
 		(uuid "c6aa2ab2-af08-49d8-9c9e-d33283d71ade")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\WP7113YD.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/WP7113YD.stp"
 		(offset
 			(xyz 1.320000033 0 0)
 		)

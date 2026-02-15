@@ -167,7 +167,7 @@
 		(uuid "1a816047-5279-48b3-a5d1-5fed77bedcc7")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\CL31A106KOHNNNE.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/CL31A106KOHNNNE.stp"
 		(offset
 			(xyz 0 0 0)
 		)

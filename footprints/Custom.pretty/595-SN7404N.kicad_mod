@@ -287,7 +287,7 @@
 		(uuid "1e284c51-cf81-4de0-9ee0-b2bcb2cfcaab")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\SN7404N.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/SN7404N.stp"
 		(offset
 			(xyz 0 0 2.499999962)
 		)

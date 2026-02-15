@@ -303,7 +303,7 @@
 		(uuid "c0ce4612-b393-4bad-b4e1-022fa764201a")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\scost\\OneDrive\\KiCad Parts Files\\Mouser\\SamacSys_Parts.3dshapes\\L293D.stp"
+	(model "${MY_KICAD_LIBS}/3dmodels/L293D.stp"
 		(offset
 			(xyz 0 0 0)
 		)
