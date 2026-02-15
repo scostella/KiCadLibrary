@@ -1520,7 +1520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Price/Stock" ".10"
+		(property "Supplier Price/Stock" "https://www.mouser.com/ProductDetail/Diotec-Semiconductor/1N4002?qs=OlC7AqGiEDlGs39rgA6VtA%3D%3D"
 			(at 11.43 -597.46 0)
 			(effects
 				(font
